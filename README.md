@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/zicowarn/PyZipCracker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+PyZipCracker an ZIP encryption crack Software
+=======================================================
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Instruction
+--
+Use Python to crack Zip encrypted files with password dictionary files. The project is created to understand Python's multithreaded programming.
 
-### Markdown
+Project characteristics
+--
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Single python file
+- High Compatibly
 
-```markdown
-Syntax highlighted code block
+If you have more questions, or better suggestions. Welcome to contact me.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+License
+--
 
-**Bold** and _Italic_ and `Code` text
+The Mozilla Public License 2.0 (MPL 2.0)
 
-[Link](url) and ![Image](src)
-```
+Copyright (c) 2015 Zhichao Wang
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This Source Code Form is subject to the terms of the Mozilla Public
+  License, v. 2.0. If a copy of the MPL was not distributed with this
+  file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ 
+If it is not possible or desirable to put the notice in a particular
+file, then You may include the notice in a location (such as a LICENSE
+file in a relevant directory) where a recipient would be likely to look
+for such a notice.
+ 
+You may add additional accurate notices of copyright ownership.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zicowarn/PyZipCracker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
